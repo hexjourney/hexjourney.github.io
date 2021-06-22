@@ -21,9 +21,9 @@
 title: HEX Journey - Pentesting - Reverse Engineering
 email: hexjourney@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A journey from botton to top into cybersecurity research, pentesting and reverse engineering with a mix of Artificial Intelligence.
+  A journey from bottom to top into cybersecurity research, pentesting and reverse engineering with a mix of Artificial Intelligence.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://hexjourney.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username: hexjourney
 
